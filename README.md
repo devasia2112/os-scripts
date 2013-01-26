@@ -1,6 +1,7 @@
 Thom's to-do list for os-scripts.git
 ====================================
 combine all the BT5 update scripts--  
+* update.sh
 * bl4ck5w4n
 * n1tr0g3n
 * sickn3ss
