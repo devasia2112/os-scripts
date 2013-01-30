@@ -30,7 +30,7 @@ In spite of this, the goal of **AttackVector Linux** is to integrate them comple
 
 ##### Tasks:
 * Evaluate features of each distro & unify them into a single kernel.
-* Implement State-of-the-Art Pseduo-Random Number Generation (PRNG) with [DaKaRand](http://dankaminsky.com/2012/08/15/dakarand/).
+* Implement state-of-the-art Pseduo-Random Number Generation (PRNG) with [DaKaRand](http://dankaminsky.com/2012/08/15/dakarand/).
 * Incorporate two fundamentally different designs, understanding the choices and making my own.
 * Provide two layers of functionality: dedicated install and live distro.
 * Add warning messages for anonymity risks.
