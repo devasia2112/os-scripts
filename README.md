@@ -23,7 +23,7 @@ a new branding for BackTrack 6: [Kali Linux](http://www.backtrack-linux.org/back
 Design Philosophy: **Yin** and _Yang_  
 
 While BackTrack requires a modified kernel for drivers of adapters to use promiscuous mode and so forth,  
-TAILS is designed from the bottom up for encryption, privacy, and anonymity. _Nmap can't UDP throgh Tor._  
+TAILS is designed from the bottom up for encryption, privacy, and anonymity. _Nmap can't UDP through Tor._  
 **The intention of AttackVector Linux is to provide the capability to anonymize attacks  
 _while warning the user when he or she takes actions that may compromize anonymity._**  
 The two projects have different design philosophies that can directly conflict with one another.  
@@ -32,7 +32,7 @@ In spite of this, the goal of **AttackVector Linux** is to integrate them comple
 ##### Tasks:
 * Evaluate features of each distro & unify them into a single kernel.
 * Implement state-of-the-art Pseduo-Random Number Generation (PRNG) with [DaKaRand](http://dankaminsky.com/2012/08/15/dakarand/).
-* Incorporate two fundamentally different designs, understanding the choices and making my own.
+* Incorporate two fundamentally different designs, understanding their choices and making my own.
 * Provide two layers of functionality: dedicated install and [live distro](http://www.irongeek.com/i.php?page=videos/portable-boot-devices-usb-cd-dvd).
 * Add warning messages for anonymity risks.
 * Full Disk Encryption (FDE)
@@ -120,6 +120,6 @@ The idea is to use an [HTML5 console](http://htmlfivewow.com/demos/terminal/term
 > [![Creative Commons License](http://i.creativecommons.org/l/by/3.0/80x15.png)](http://creativecommons.org/licenses/by/3.0/)
 > [![Open Source](http://www.ipol.im/static/badges/open-source.png)](http://opensource.org/licenses/BSD-3-Clause)
 > ![Hacker Emblem](http://catb.org/hacker-emblem/hacker.png)  
-> © Thom Hastings 2012  
+> © Thom Hastings 2012-2013  
 > Code under [New BSD License](http://opensource.org/licenses/BSD-3-Clause).  
 > Text under [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
