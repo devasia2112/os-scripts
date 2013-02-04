@@ -17,8 +17,8 @@ Thom's To-Do List for AttackVector.org
 Eventually this will become the home of **AttackVector Linux**, a new distribution for anonymized penetration and security.  
 It will be based on [BackTrack](http://www.backtrack-linux.org) and [TAILS](https://tails.boum.org).
 
-**Update:** The Offensive-Security team [has announced](http://www.offensive-security.com/offsec/backtrack-reborn-kali-linux/)
-a new branding for BackTrack 6: [Kali Linux](http://www.backtrack-linux.org/backtrack/kali-a-teaser-into-the-future/)
+_**Update:** The Offensive-Security team [has announced](http://www.offensive-security.com/offsec/backtrack-reborn-kali-linux/)
+a new branding for BackTrack 6: [Kali Linux](http://www.backtrack-linux.org/backtrack/kali-a-teaser-into-the-future/)_
 
 Design Philosophy: **Yin** and _Yang_  
 
