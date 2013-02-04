@@ -125,10 +125,6 @@ Since it will require greater resources, we may commercialize this fork, to offe
 ### notes on setting up a pentest lab
 > from the [Metasploit Project](http://metasploit.com/help/test-lab.jsp)
 
-###### potentially useful WebGL examples
-> [Chrome Experiemnts](http://www.chromeexperiments.com/webgl)  
-> (downside: Chrome only)
-
 ##### that DEFCON CTF thread
 > [DEFCON forums](https://forum.defcon.org/showthread.php?t=13160)
 
@@ -159,6 +155,10 @@ The idea is to use an [HTML5 console](http://htmlfivewow.com/demos/terminal/term
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 * [Learning the Shell](http://www.linuxcommand.org/learning_the_shell.php)
 * [An Introduction to the Unix Shell](http://partmaps.org/era/unix/shell.html) by S. R. Bourne
+
+###### potentially useful WebGL examples
+> [Chrome Experiemnts](http://www.chromeexperiments.com/webgl)  
+> (downside: Chrome only)
 
 ----------------------
 ###### social, license
