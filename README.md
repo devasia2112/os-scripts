@@ -71,8 +71,8 @@ Since it will require greater resources, we may commercialize this fork, to offe
 * [Honeynet Project](http://honeynet.org/challenges)
 
 ### & the **big kahunas**
-the [**gh0st**](http://gh0st.net/wiki) network  
-[hackthissite.org](http://hackthissite.org)
+> the [**gh0st**](http://gh0st.net/wiki) network  
+> [hackthissite.org](http://hackthissite.org)
 
 ### notes on setting up a pentest lab
 > from the [Metasploit Project](http://metasploit.com/help/test-lab.jsp)
