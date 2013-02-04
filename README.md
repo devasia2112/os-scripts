@@ -32,7 +32,7 @@ In spite of this, the goal of **AttackVector Linux** is to integrate them comple
 * Evaluate features of each distro & unify them into a single kernel.
 * Implement state-of-the-art Pseduo-Random Number Generation (PRNG) with [DaKaRand](http://dankaminsky.com/2012/08/15/dakarand/).
 * Incorporate two fundamentally different designs, understanding the choices and making my own.
-* Provide two layers of functionality: dedicated install and live distro.
+* Provide two layers of functionality: dedicated install and [live distro](http://www.irongeek.com/i.php?page=videos/portable-boot-devices-usb-cd-dvd).
 * Add warning messages for anonymity risks.
 * Full Disk Encryption (FDE)
 * Host on AttackVector.org
