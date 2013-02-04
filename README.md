@@ -60,7 +60,7 @@
     11111111111111111111111111111111110111111111111111111111111111111
 
 --------------------------------------
-Thom's To-Do List for AttackVector.org
+Thom's To-Do List for [AttackVector.org](http://attackvector.org)
 ======================================
 Eventually this will become the home of **AttackVector Linux**, a new distribution for anonymized penetration and security.  
 It will be based on [BackTrack](http://www.backtrack-linux.org) and [TAILS](https://tails.boum.org).
@@ -89,7 +89,7 @@ In spite of this, the goal of **AttackVector Linux** is to integrate them comple
 * Debian repositories
 
 ---------------------------------
-Thom's To-Do List for VulnHub.com
+Thom's To-Do List for [VulnHub.com](http://vulnhub.com)
 =================================
 The plan is to help [g0tmi1k](http://g0tmi1k.blogspot.com) with his Capture-the-Flag and WarGaming social network.
 Specifically, I intend to implement an [Armitage](http://fastandeasyhacking.com) browser applet.
@@ -140,7 +140,7 @@ Since it will require greater resources, we may commercialize this fork, to offe
 > [HoneyDrive](http://bruteforce.gr/honeydrive-desktop-released.html)
 
 ----------------------------------------
-Thom's To-Do List for VirtualConsole.net
+Thom's To-Do List for VirtualConsole.net (down)
 ========================================
 The idea is to use an [HTML5 console](http://htmlfivewow.com/demos/terminal/terminal.html) to introduce neophytes to the command line.  
 *There has to be a way to move people away from Windows, or get them to use [cygwin](http://cygwin.com) at least.*
