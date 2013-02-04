@@ -1,14 +1,15 @@
-Thom's to-do list for os-scripts.git
-====================================
-combine all the BT5 update scripts--  
-* update.sh
-* bl4ck5w4n
-* n1tr0g3n
-* sickn3ss
-* Snafu
-* etc.  
+~~Thom's to-do list for os-scripts.git~~
+========================================
+~~combine all the BT5 update scripts--~~  
+* ~~update.sh~~
+* ~~bl4ck5w4n~~
+* ~~n1tr0g3n~~
+* ~~sickn3ss~~
+* ~~Snafu~~
+* ~~etc.~~  
 
-one script to rule them all!
+~~one script to rule them all!~~  
+**Update:** Kali Linux better have this by default, I don't have time.
 
 --------------------------------------
 Thom's To-Do List for AttackVector.org
