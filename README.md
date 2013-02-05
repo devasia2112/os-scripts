@@ -78,7 +78,6 @@ The two projects have different design philosophies that can directly conflict w
 In spite of this, the goal of **AttackVector Linux** is to integrate them complementarily into one OS.
 
 ##### Tasks:
-* Learn how to [customize Debian live](http://live.debian.net/manual/current/html/live-manual/customizing-contents.en.html).
 * Evaluate features of each distro & unify them into a single kernel.
 * Implement state-of-the-art Pseduo-Random Number Generation (PRNG) with [DaKaRand](http://dankaminsky.com/2012/08/15/dakarand/).
 * Incorporate two fundamentally different designs, understanding their choices and making my own.
@@ -88,6 +87,10 @@ In spite of this, the goal of **AttackVector Linux** is to integrate them comple
 * Host on AttackVector.org
 * Provide documentation
 * Debian repositories
+
+##### Docs:
+* How to [build TAILS](https://tails.boum.org/contribute/build/)
+* How to [customize Debian live](http://live.debian.net/manual/current/html/live-manual/customizing-contents.en.html)
 
 ---------------------------------
 Thom's To-Do List for [VulnHub.com](http://vulnhub.com)
