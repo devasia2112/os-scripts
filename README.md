@@ -89,6 +89,7 @@ In spite of this, the goal of **AttackVector Linux** is to integrate them comple
 * Debian repositories
 
 ##### Docs:
+* [Linux From Scratch](http://www.linuxfromscratch.org)
 * How to [build TAILS](https://tails.boum.org/contribute/build/)
 * How to [customize Debian live](http://live.debian.net/manual/current/html/live-manual/customizing-contents.en.html)
 
