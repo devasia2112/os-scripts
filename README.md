@@ -101,8 +101,7 @@ Specifically, I intend to implement an [Armitage](http://fastandeasyhacking.com)
 The notes below relate to many hacking exercises and vulnerable Virtual Machines (VMs).
 
 We are looking into using [OpenStack](http://www.openstack.org) to allow users to launch attacks _through a full  
-[BackTrack](http://www.backtrack-linux.org) instance_ and an HTML5 VNC connection: [noVNC](http://kanaka.github.com/noVNC) vs. [Guacamole](http://guac-dev.org) vs. [ThinVNC](http://www.cybelesoft.com/thinvnc)?  
-Since it will require greater resources, we may commercialize this fork, to offer paid trainings. [feedback](mailto:thom@attackvector.org)
+[BackTrack](http://www.backtrack-linux.org) instance_ and an HTML5 VNC connection: [noVNC](http://kanaka.github.com/noVNC) vs. [Guacamole](http://guac-dev.org) vs. [ThinVNC](http://www.cybelesoft.com/thinvnc)?
 
 ## Packages to tie together
 1. [pentestify/lab](https://github.com/pentestify/lab)
@@ -132,10 +131,6 @@ Since it will require greater resources, we may commercialize this fork, to offe
 
 ##### that DEFCON CTF thread
 > [DEFCON forums](https://forum.defcon.org/showthread.php?t=13160)
-
-###### possible secure comms
-> [crypto.cat](https://github.com/cryptocat/cryptocat/wiki/Server-Deployment-Instructions)  
-> (downside: requires plugin)
 
 ### introduce honeypots?
 > [HoneyDrive](http://bruteforce.gr/honeydrive-desktop-released.html)
