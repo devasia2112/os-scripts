@@ -9,7 +9,7 @@
 * ~~etc.~~  
 
 ~~one script to rule them all!~~  
-**Update:** _Maybe_ (Kali Linux)[http://www.backtrack-linux.org/backtrack/kali-a-teaser-into-the-future/] will have this by default, so I'm gonna put it off. :)
+**Update:** _Maybe_ [Kali Linux](http://www.backtrack-linux.org/backtrack/kali-a-teaser-into-the-future/) will have this by default, so I'm gonna put it off. :)
 
     11111111111111111111111111111111111111001111111111111111111111111
     11111111111111111111111111111111111100011111111111111111111111111
