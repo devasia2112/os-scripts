@@ -92,8 +92,8 @@ In spite of this, the goal of **AttackVector Linux** is to integrate them comple
 * [Linux From Scratch](http://www.linuxfromscratch.org)
 * How to [build TAILS](https://tails.boum.org/contribute/build/)
 * How to [compile the kernel](http://www.dedoimedo.com/computers/linux-kernel-compilation.html)
-* [Crypto Filesystems on Gentoo](http://en.gentoo-wiki.com/wiki/DM-Crypt_with_LUKS)
 * How to [customize Debian live](http://live.debian.net/manual/current/html/live-manual/customizing-contents.en.html)
+* [Crypto filesystems on Gentoo](http://en.gentoo-wiki.com/wiki/DM-Crypt_with_LUKS)
 
 ---------------------------------
 Thom's To-Do List for [VulnHub.com](http://vulnhub.com)
