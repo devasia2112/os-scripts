@@ -167,11 +167,11 @@ The idea is to use an [HTML5 console](http://htmlfivewow.com/demos/terminal/term
 ----------------------
 ###### social, license
 > [![Tweet This](http://ampedstatus.org/wp-content/plugins/tweet-this/icons/en/twitter/tt-twitter-micro4.png)](https://twitter.com/intent/tweet?text=%40attackvector%20%40vulnhub%20%40thomhastings%20)
-> [![Linkedin](http://www.hollybrady.com/bradyholly/wp-content/plugins/tweet-this/icons/en/linkedin/tt-linkedin-micro4.png)](http://linkedin.com/in/ThomHastings)
-> [![Facebook](http://daviddegraw.org/wp-content/plugins/tweet-this/icons/tt-facebook-micro4.png)](http://facebook.com/thomg)  
+> [![Facebook](http://daviddegraw.org/wp-content/plugins/tweet-this/icons/tt-facebook-micro4.png)](http://facebook.com/thomg)
+> [![Linkedin](http://www.hollybrady.com/bradyholly/wp-content/plugins/tweet-this/icons/en/linkedin/tt-linkedin-micro4.png)](http://linkedin.com/in/ThomHastings)  
 > [![Creative Commons License](http://i.creativecommons.org/l/by/3.0/80x15.png)](http://creativecommons.org/licenses/by/3.0/)
 > [![Open Source](http://www.ipol.im/static/badges/open-source.png)](http://opensource.org/licenses/BSD-3-Clause)
-> ![Hacker Emblem](http://catb.org/hacker-emblem/hacker.png)  
+> [![Hacker Emblem](http://catb.org/hacker-emblem/hacker.png)](http://www.catb.org/hacker-emblem/)  
 > © Thom Hastings 2012-2013  
 > Code under [New BSD License](http://opensource.org/licenses/BSD-3-Clause).  
 > Text under [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
