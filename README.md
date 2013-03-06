@@ -90,6 +90,7 @@ In spite of this, the goal of **AttackVector Linux** is to integrate them comple
 
 ##### Docs:
 * [Linux From Scratch](http://www.linuxfromscratch.org)
+* [TAILS git branches](https://tails.boum.org/contribute/git/#index4h3)
 * How to [build TAILS](https://tails.boum.org/contribute/build/)
 * How to [customize TAILS](https://tails.boum.org/contribute/customize/)
 * How to [compile the kernel](http://www.dedoimedo.com/computers/linux-kernel-compilation.html)
