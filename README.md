@@ -59,44 +59,6 @@
     11111111111111111111111111111111100111111111111111111111111111111
     11111111111111111111111111111111110111111111111111111111111111111
 
---------------------------------------
-Thom's To-Do List for [AttackVector.org](http://attackvector.org)
-======================================
-Eventually this will become the home of **AttackVector Linux**, a new distribution for anonymized penetration and security.  
-It will be based on [BackTrack](http://www.backtrack-linux.org) and [TAILS](https://tails.boum.org).
-
-_**Update:** The Offensive-Security team [has announced](http://www.offensive-security.com/offsec/backtrack-reborn-kali-linux/)
-a new branding for BackTrack 6: [Kali Linux](http://www.backtrack-linux.org/backtrack/kali-a-teaser-into-the-future/)_
-
-Design Philosophy: **Yin** and _Yang_  
-
-While BackTrack requires a modified kernel for drivers of adapters to use promiscuous mode and so forth,  
-TAILS is designed from the bottom up for encryption, privacy, and anonymity. _Nmap can't UDP through Tor._  
-**The intention of AttackVector Linux is to provide the capability to anonymize attacks  
-_while warning the user when he or she takes actions that may compromize anonymity._**  
-The two projects have different design philosophies that can directly conflict with one another.  
-In spite of this, the goal of **AttackVector Linux** is to integrate them complementarily into one OS.
-
-##### Tasks:
-* Evaluate features of each distro & unify them into a single kernel.
-* Implement state-of-the-art Pseduo-Random Number Generation (PRNG) with [DaKaRand](http://dankaminsky.com/2012/08/15/dakarand/).
-* Incorporate two fundamentally different designs, understanding their choices and making my own.
-* Provide two layers of functionality: dedicated install and [live distro](http://www.irongeek.com/i.php?page=videos/portable-boot-devices-usb-cd-dvd).
-* Add warning messages for anonymity risks.
-* Full Disk Encryption (FDE)
-* Host on AttackVector.org
-* Provide documentation
-* Debian repositories
-
-##### Docs:
-* [Linux From Scratch](http://www.linuxfromscratch.org)
-* [TAILS git branches](https://tails.boum.org/contribute/git/#index4h3)
-* How to [build TAILS](https://tails.boum.org/contribute/build/#index1h1)
-* How to [customize TAILS](https://tails.boum.org/contribute/customize/#index1h1)
-* How to [compile the kernel](http://www.dedoimedo.com/computers/linux-kernel-compilation.html)
-* How to [customize Debian live](http://live.debian.net/manual/current/html/live-manual/customizing-contents.en.html)
-* [Crypto filesystems on Gentoo](http://en.gentoo-wiki.com/wiki/DM-Crypt_with_LUKS)
-
 ---------------------------------
 Thom's To-Do List for [VulnHub.com](http://vulnhub.com)
 =================================
