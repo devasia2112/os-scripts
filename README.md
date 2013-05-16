@@ -4,7 +4,9 @@ The plan is to help [g0tmi1k](http://g0tmi1k.blogspot.com) with his Capture-the-
 Specifically, I intend to implement an [Armitage](http://fastandeasyhacking.com) browser applet.  
 a-la [teamsploit](https://sourceforge.net/projects/teamsploit/). (see notes re: `butane)
 
+
 The notes below relate to many hacking exercises and vulnerable Virtual Machines (VMs).
+---------------------------------------------------------------------------------------
 
 We are looking into using [OpenStack](http://www.openstack.org) to allow users to launch attacks _through a full  
 [BackTrack](http://www.backtrack-linux.org) instance_ and an HTML5 VNC connection: [noVNC](http://kanaka.github.com/noVNC) vs. [Guacamole](http://guac-dev.org) vs. [ThinVNC](http://www.cybelesoft.com/thinvnc)?
