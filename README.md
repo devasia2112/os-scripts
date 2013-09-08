@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Thom's To-Do List for [VulnHub.com](http://vulnhub.com)
 =================================
 The plan is to help [g0tmi1k](http://g0tmi1k.blogspot.com) with his Capture-the-Flag and WarGaming social network.
@@ -79,3 +80,8 @@ The idea is to use an [HTML5 console](http://htmlfivewow.com/demos/terminal/term
 > © Thom Hastings 2012-2013  
 > Code under [New BSD License](http://opensource.org/licenses/BSD-3-Clause).  
 > Text under [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+=======
+# OS-Scripts #
+---
+Operating System's Scripts & stuff to go along with them
+>>>>>>> g0tmi1k/master
