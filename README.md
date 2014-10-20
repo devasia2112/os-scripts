@@ -1,10 +1,10 @@
 <<<<<<< HEAD
-(C) Ken Soona 2014
+© Ken Soona 2014 BSD
 ken@attackvector.org
-MIT License & GFDL
+MIT License & GFDL ☤
 =======
 <<<<<<< HEAD
-Thom's To-Do List for [VulnHub.com](http://vulnhub.com)
+☠ Thom's To-Do List for [VulnHub.com](http://vulnhub.com)
 =================================
 The plan is to help [g0tmi1k](http://g0tmi1k.blogspot.com) with his Capture-the-Flag and WarGaming social network.
 Specifically, I intend to implement an [Armitage](http://fastandeasyhacking.com) browser applet.  
@@ -39,15 +39,19 @@ We are looking into using [OpenStack](http://www.openstack.org) to allow users t
 ### & the **big kahunas**
 > the [**gh0st**](http://gh0st.net/wiki) network  
 > [hackthissite.org](http://hackthissite.org)
+> the ChaosVPN, Tor, Freenet, i2p
 
 ### notes on setting up a pentest lab
 > from the [Metasploit Project](http://metasploit.com/help/test-lab.jsp)
+> phones are in scope: asterisk, jitsi, PBX'n like it's goin' otta' style...
 
 ##### that DEFCON CTF thread
 > [DEFCON forums](https://forum.defcon.org/showthread.php?t=13160)
+> thanks to #pure-elite #busticati you know who you are...
 
 ### introduce honeypots?
 > [HoneyDrive](http://bruteforce.gr/honeydrive-desktop-released.html)
+> this stuff is only allowed in the **DMZ** webcomic...
 
 ----------------------------------------
 Thom's To-Do List for VirtualConsole.net (down)
@@ -75,7 +79,7 @@ The idea is to use an [HTML5 console](http://htmlfivewow.com/demos/terminal/term
 > (downside: Chrome only)
 
 ----------------------
-###### social, license
+###### ☠ social, license
 > [![Tweet This](http://ampedstatus.org/wp-content/plugins/tweet-this/icons/en/twitter/tt-twitter-micro4.png)](https://twitter.com/intent/tweet?text=%40attackvector%20%40vulnhub%20%40thomhastings%20)
 > [![Facebook](http://daviddegraw.org/wp-content/plugins/tweet-this/icons/tt-facebook-micro4.png)](http://facebook.com/thomg)
 > [![Linkedin](http://www.hollybrady.com/bradyholly/wp-content/plugins/tweet-this/icons/en/linkedin/tt-linkedin-micro4.png)](http://linkedin.com/in/ThomHastings)  
@@ -85,9 +89,10 @@ The idea is to use an [HTML5 console](http://htmlfivewow.com/demos/terminal/term
 > © Thom Hastings 2012-2013  
 > Code under [New BSD License](http://opensource.org/licenses/BSD-3-Clause).  
 > Text under [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
-=======
+======= 
 # OS-Scripts #
 ---
 Operating System's Scripts & stuff to go along with them
 >>>>>>> g0tmi1k/master
 >>>>>>> 449665fbf3b4f914db17b8665d146eb22ffb8ef7
+do.u.gøtmi1k?
