@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "Get SRware Iron Browser script"
+echo "Get Jitsi FOSS Skype replacement script"
 echo "(C) Thom Hastings 2009-2014 New BSD license"
 echo
 echo "Downloading & installing Jitsi..."
