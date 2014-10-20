@@ -11,31 +11,35 @@ Specifically, I intend to implement an [Armitage](http://fastandeasyhacking.com)
 a-la [teamsploit](https://sourceforge.net/projects/teamsploit/). (see notes re: `butane)
 I would love for this #VulnCTF to have a selection of 9 VM's in a 3x3 grid...  
 ...like tic-tac-toe...
-...with their choice of pentest distro too! e.g. ((C.I.A.)[http://sourceforge.net/projects/customwheezy7/]) ;)  D0 Y0U WANT T0 PL@Y A GAME‽  
-===========================
-> Too many secrets... @NSA.
-                          |            |
-                 .____,   |            |    ____
-                . \  / ,  |            |  ,' __ `.
-                |`-  -'|  |            | / ,'  `. \
-                |,-  -.|  |            | | | () | |
-                ' /__\ `  |            | \ `.__,' /
-                 '    `   |            |  `.____,'
-             _____________|____________|_______________
-                 .____,   |    ____    |
-                . \  / ,  |  ,' __ `.  |
-                |`-  -'|  | / ,'  `. \ |
-                |,-  -.|  | | | () | | |
-                ' /__\ `  | \ `.__,' / |
-                 '    `   |  `.____,'  |
-             _____________|____________|_______________
-                          |            |   .____,
-                          |            |  . \  / ,
-                          |            |  |`-  -'|
-                          |            |  |,-  -.|
-                          |            |  ' /__\ `
-                          |            |   '    `
-                          |            |
+...with their choice of pentest distro too! e.g. ([C.I.A.](http://sourceforge.net/projects/customwheezy7/) ;)  
+
+D0 Y0U WANT T0 PL@Y A GAME‽  
+===========================  
+> Too many secrets... @NSA.  
+
+                          |            |  
+                 .____,   |            |    ____  
+                . \  / ,  |            |  ,' __ `.  
+                |`-  -'|  |            | / ,'  `. \  
+                |,-  -.|  |            | | | () | |  
+                ' /__\ `  |            | \ `.__,' /  
+                 '    `   |            |  `.____,'  
+             _____________|____________|_______________  
+                 .____,   |    ____    |  
+                . \  / ,  |  ,' __ `.  |  
+                |`-  -'|  | / ,'  `. \ |  
+                |,-  -.|  | | | () | | |  
+                ' /__\ `  | \ `.__,' / |  
+                 '    `   |  `.____,'  |  
+             _____________|____________|_______________  
+                          |            |   .____,  
+                          |            |  . \  / ,  
+                          |            |  |`-  -'|  
+                          |            |  |,-  -.|  
+                          |            |  ' /__\ `  
+                          |            |   '    `  
+                          |            |  
+                          
 The notes below relate to many hacking exercises ("WarGames") and vulnerable Virtual Machines (VMs).
 ---------------------------------------------------------------------------------------
 
