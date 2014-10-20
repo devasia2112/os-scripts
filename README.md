@@ -39,19 +39,20 @@ We are looking into using [OpenStack](http://www.openstack.org) to allow users t
 ### & the **big kahunas**
 > the [**gh0st**](http://gh0st.net/wiki) network  
 > [hackthissite.org](http://hackthissite.org)
-> the ChaosVPN, Tor, Freenet, i2p
+> the ChaosVPN, Tor, Freenet, i2p  
 
 ### notes on setting up a pentest lab
 > from the [Metasploit Project](http://metasploit.com/help/test-lab.jsp)
-> phones are in scope: asterisk, jitsi, PBX'n like it's goin' otta' style...
+> phones are in scope: asterisk, jitsi, PBX'n like it's goin' otta' style...  
 
 ##### that DEFCON CTF thread
 > [DEFCON forums](https://forum.defcon.org/showthread.php?t=13160)
-> thanks to #pure-elite #busticati you know who you are...
+> thanks to #pure-elite #busticati you know who you are...  
 
 ### introduce honeypots?
 > [HoneyDrive](http://bruteforce.gr/honeydrive-desktop-released.html)
-> this stuff is only allowed in the **DMZ** webcomic...
+> this stuff is only allowed in the **DMZ** webcomic...  
+> but I'd throw some [ADHD](http://sourceforge.net/projects/adhd/) boxes in there too, so the Blue Teams can have some fun...
 
 ----------------------------------------
 Thom's To-Do List for VirtualConsole.net (down)
